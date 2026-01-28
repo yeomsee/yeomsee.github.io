@@ -25,6 +25,18 @@ impressum_path: # set to path to include impressum link in the footer, use the s
 back_to_top: true # set to false to disable the back to top button
 
 # -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+
+social:
+  linkedin_username: [sihyeong-yeom-0425b8305] # LinkedIn 프로필 URL의 마지막 아이디 입력
+  github_username: yeomsee
+  # Velog는 RSS 피드를 통해 아이콘을 활성화할 수 있습니다.
+  rss_icon: true 
+  # 블로그 링크는 아래 항목에 직접 입력하세요.
+  blog: https://v2.velog.io/rss/@yeomsee97
+
+# -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
 
