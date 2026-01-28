@@ -23,17 +23,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an **M.S. candidate in Artificial Intelligence at Konkuk University**, advised by [Professor Harksoo Kim](http://nlp.konkuk.ac.kr/bbs/content.php?co_id=Professor). My research focuses on advancing the capabilities of **Large Language Models (LLMs)**, specifically in the areas of **Retrieval-Augmented Generation (RAG)** and **Efficient Reasoning**. 
+I am a **second-year M.S. student** in Artificial Intelligence at Konkuk University, advised by [Professor Harksoo Kim](http://nlp.konkuk.ac.kr/bbs/content.php?co_id=Professor). My research focuses on advancing the capabilities of **Large Language Models (LLMs)**, specifically in the areas of **Retrieval-Augmented Generation (RAG)** and **Efficient Reasoning**. Prior to this, I earned my B.S. in **Applied Statistics** from Konkuk University.
 
-I hold a B.S. in **Applied Statistics** from Konkuk University, where I developed a strong foundation in data science and statistical modeling. In 2023, I was honored to receive the **Excellence Award** at the 4th Statistics Competition for my work on predictive analytics.
-
-Currently, I am exploring adaptive computation methods to improve the efficiency of complex reasoning tasks in LLMs.
-
-
-<div class="social" style="font-size: 1.5rem; margin-top: 1.5rem;">
+<div class="social" style="font-size: 1.2rem; margin-top: 10px; color: #555;">
   <div class="contact-icons">
-    <a href="https://github.com/yeomsee" title="GitHub" target="_blank"><i class="fab fa-github"></i></a>&nbsp;
-    <a href="https://www.linkedin.com/in/sihyeong-yeom-0425b8305" title="LinkedIn" target="_blank"><i class="fab fa-linkedin"></i></a>&nbsp;
-    <a href="https://velog.io/@yeomsee97" title="Blog" target="_blank"><i class="fas fa-rss"></i></a>
+    <a href="https://github.com/yeomsee" title="GitHub" target="_blank"><i class="fab fa-github"></i></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/sihyeong-yeom-0425b8305" title="LinkedIn" target="_blank"><i class="fab fa-linkedin"></i></a>&nbsp;&nbsp;
+    <a href="https://velog.io/@yeomsee97" title="Velog" target="_blank"><i class="fas fa-blog"></i></a>
   </div>
 </div>
