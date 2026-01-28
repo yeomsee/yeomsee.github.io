@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: ABOUT
 permalink: /
 subtitle: <a href='http://nlp.konkuk.ac.kr/'>NLP Lab</a> @ Konkuk University.
 
