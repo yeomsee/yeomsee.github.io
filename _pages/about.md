@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an **M.S. candidate in Artificial Intelligence at Konkuk University**, advised by [Professor Harksoo Kim](http://nlp.konkuk.ac.kr/). My research focuses on advancing the capabilities of **Large Language Models (LLMs)**, specifically in the areas of **Retrieval-Augmented Generation (RAG)** and **Efficient Reasoning**. 
+I am an **M.S. candidate in Artificial Intelligence at Konkuk University**, advised by [Professor Harksoo Kim](http://nlp.konkuk.ac.kr/bbs/content.php?co_id=Professor). My research focuses on advancing the capabilities of **Large Language Models (LLMs)**, specifically in the areas of **Retrieval-Augmented Generation (RAG)** and **Efficient Reasoning**. 
 
 I hold a B.S. in **Applied Statistics** from Konkuk University, where I developed a strong foundation in data science and statistical modeling. In 2023, I was honored to receive the **Excellence Award** at the 4th Statistics Competition for my work on predictive analytics.
 
