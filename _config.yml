@@ -7,7 +7,7 @@ first_name: Sihyeong
 # middle_name: ""
 last_name: Yeom
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  # blank
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   M.S. Candidate in AI @ Konkuk Univ. | Focus on LLM, RAG, and Efficient Reasoning
 footer_text: >
