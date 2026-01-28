@@ -29,8 +29,11 @@ I hold a B.S. in **Applied Statistics** from Konkuk University, where I develope
 
 Currently, I am exploring adaptive computation methods to improve the efficiency of complex reasoning tasks in LLMs.
 
-<div class="social">
+<div class="social" style="font-size: 1.5rem; margin-top: 10px;">
   <div class="contact-icons">
-    {% include social.html %}
+    <a href="yeomsee97@gmail.com" title="email"><i class="fas fa-envelope"></i></a>&nbsp;
+    <a href="https://github.com/yeomsee" title="GitHub" target="_blank"><i class="fab fa-github"></i></a>&nbsp;
+    <a href="https://www.linkedin.com/in/sihyeong-yeom-0425b8305" title="LinkedIn" target="_blank"><i class="fab fa-linkedin"></i></a>&nbsp;
+    <a href="https://velog.io/@yeomsee97" title="Blog" target="_blank"><i class="fas fa-rss"></i></a>
   </div>
 </div>
