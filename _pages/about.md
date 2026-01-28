@@ -29,6 +29,6 @@ I am a **second-year M.S. student** in Artificial Intelligence at Konkuk Univers
   <div class="contact-icons">
     <a href="https://github.com/yeomsee" title="GitHub" target="_blank" style="color: inherit; margin-right: 15px;"><i class="fab fa-github"></i></a>
     <a href="https://www.linkedin.com/in/sihyeong-yeom-0425b8305" title="LinkedIn" target="_blank" style="color: inherit; margin-right: 15px;"><i class="fab fa-linkedin"></i></a>
-    <a href="https://velog.io/@yeomsee97/posts" title="velog" target="_blank" style="color: inherit;"><i class="fas fa-pen-nib"></i></a>
+    <a href="https://velog.io/@yeomsee97/posts" title="velog" target="_blank" style="color: inherit;"><i class="fas fa-feather-pointed"></i></a>
   </div>
 </div>
