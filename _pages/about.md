@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -28,3 +28,9 @@ I am an **M.S. candidate in Artificial Intelligence at Konkuk University**, advi
 I hold a B.S. in **Applied Statistics** from Konkuk University, where I developed a strong foundation in data science and statistical modeling. In 2023, I was honored to receive the **Excellence Award** at the 4th Statistics Competition for my work on predictive analytics.
 
 Currently, I am exploring adaptive computation methods to improve the efficiency of complex reasoning tasks in LLMs.
+
+<div class="social">
+  <div class="contact-icons">
+    {% include social.liquid %}
+  </div>
+</div>
