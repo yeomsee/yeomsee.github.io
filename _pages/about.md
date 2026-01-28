@@ -31,6 +31,6 @@ Currently, I am exploring adaptive computation methods to improve the efficiency
 
 <div class="social">
   <div class="contact-icons">
-    {% include social.liquid %}
+    {% include social.html %}
   </div>
 </div>
