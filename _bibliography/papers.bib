@@ -27,3 +27,18 @@
   selected={false},
   pdf={hclt_2025.pdf}
 }
+
+@article{yoon2026breaking,
+  abbr={arXiv},
+  bibtex_show={true},
+  title={Breaking the Pre-Sampling Barrier: Activation-Informed Difficulty-Aware Self-Consistency},
+  author={Yoon, Taewoong and Jeong, Geunyeong and Park, Geon and Yeom, Sihyeong and Kim, Harksoo},
+  journal={arXiv preprint arXiv:2602.09438},
+  year={2026},
+  url={https://arxiv.org/abs/2602.09438},
+  pdf={https://arxiv.org/pdf/2602.09438.pdf},
+  arxiv={2602.09438},
+  selected={true},
+  note={Under review at IJCAI 2026},
+  abstract={Self-Consistency (SC) is an effective decoding strategy that improves the reasoning performance of Large Language Models (LLMs) by generating multiple chain-of-thought reasoning paths and selecting the final answer via majority voting. However, it suffers from substantial inference costs because it requires a large number of samples. To mitigate this issue, Difficulty-Adaptive Self-Consistency (DSC) was proposed to reduce unnecessary token usage for easy problems by adjusting the number of samples according to problem difficulty. However, DSC requires additional model calls and pre-sampling to estimate difficulty, and this process is repeated when applying to each dataset, leading to significant computational overhead. In this work, we propose Activation-Informed Difficulty-Aware Self-Consistency (ACTSC) to address these limitations. ACTSC leverages internal difficulty signals reflected in the feed-forward network neuron activations to construct a lightweight difficulty estimation probe, without any additional token generation or model calls. The probe dynamically adjusts the number of samples for SC and can be applied to new datasets without requiring pre-sampling for difficulty estimation. To validate its effectiveness, we conduct experiments on five benchmarks. Experimental results show that ACTSC effectively reduces inference costs while maintaining accuracy relative to existing methods.}
+}
