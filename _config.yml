@@ -290,7 +290,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Yeom]
-  first_name: [Sihyeong]
+  first_name: [Sihyeong, SiHyeong]
 
   style: apa
   locale: en
