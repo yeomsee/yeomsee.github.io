@@ -376,7 +376,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "teachings-data-science-fundamentals",
+            },},{id: "news-our-paper-k-nlpers-at-semeval-2026-task-7-has-been-accepted-at-semeval-2026-acl-2026-workshop-we-achieved-outstanding-results-in-the-competition-2nd-place-in-track-1-mcq-and-4th-place-in-track-2-saq-with-our-multiple-llm-agent-debate-system-co-first-author",
+          title: '📢 Our paper “K-NLPers at SemEval-2026 Task 7…“ has been accepted at SemEval-2026...',
+          description: "",
+          section: "News",},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
