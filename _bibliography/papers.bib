@@ -42,3 +42,18 @@
   note={Under review at IJCAI 2026},
   abstract={Self-Consistency (SC) is an effective decoding strategy that improves the reasoning performance of Large Language Models (LLMs) by generating multiple chain-of-thought reasoning paths and selecting the final answer via majority voting. However, it suffers from substantial inference costs because it requires a large number of samples. To mitigate this issue, Difficulty-Adaptive Self-Consistency (DSC) was proposed to reduce unnecessary token usage for easy problems by adjusting the number of samples according to problem difficulty. However, DSC requires additional model calls and pre-sampling to estimate difficulty, and this process is repeated when applying to each dataset, leading to significant computational overhead. In this work, we propose Activation-Informed Difficulty-Aware Self-Consistency (ACTSC) to address these limitations. ACTSC leverages internal difficulty signals reflected in the feed-forward network neuron activations to construct a lightweight difficulty estimation probe, without any additional token generation or model calls. The probe dynamically adjusts the number of samples for SC and can be applied to new datasets without requiring pre-sampling for difficulty estimation. To validate its effectiveness, we conduct experiments on five benchmarks. Experimental results show that ACTSC effectively reduces inference costs while maintaining accuracy relative to existing methods.}
 }
+
+@inproceedings{semeval2026,
+  abbr={SemEval},
+  bibtex_show={true},
+  title={K-NLPers at SemEval-2026 Task 7: Multiple LLM Agent Debate System for Everyday Knowledge Across Diverse Languages and Cultures},
+  author={Song*, Jiwoo and Yeom*, Sihyeong and Kim, Harksoo},
+  booktitle={Proceedings of the 20th International Workshop on Semantic Evaluation (SemEval-2026)},
+  year={2026},
+  month={July},
+  address={San Diego, California (USA)},
+  note={To be published (Presented on July 02-07)},
+  annotation={* Co-first authors},
+  selected={true},
+  abstract={This paper presents K-NLPers' system for SemEval-2026 Task 7. We propose a Multiple LLM Agent Debate System designed to capture and evaluate everyday knowledge across diverse languages and cultures, showcasing advanced multi-agent coordination and robust cross-cultural reasoning capability.}
+}
