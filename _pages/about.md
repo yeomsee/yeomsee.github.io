@@ -2,8 +2,7 @@
 layout: about
 title: ABOUT
 permalink: /
-subtitle: <a href='http://nlp.konkuk.ac.kr/'>NLP Lab</a> @ Konkuk University.
-
+subtitle: <a href='https://www.navercloudcorp.com/'>NAVER Cloud</a> | Foundation Pre-training Team
 profile:
   align: right
   image: my_profile.jpg
