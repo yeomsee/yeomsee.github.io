@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a **second-year M.S. student** in Artificial Intelligence at Konkuk University, advised by [Professor Harksoo Kim](http://nlp.konkuk.ac.kr/bbs/content.php?co_id=Professor). My research focuses on advancing the capabilities of **Large Language Models (LLMs)**, specifically in the areas of **Retrieval-Augmented Generation (RAG)** and **Efficient Reasoning**. Prior to this, I earned my B.S. in **Applied Statistics** from Konkuk University.
+I am currently a **Research Intern** on the **Foundation Pre-training Team at NAVER Cloud**. I received my M.S. in **Artificial Intelligence** from Konkuk University, where I was advised by [Professor Harksoo Kim](http://nlp.konkuk.ac.kr/bbs/content.php?co_id=Professor). My research focuses on advancing the capabilities of **Large Language Models (LLMs)**, particularly in **Retrieval-Augmented Generation (RAG)** and **Efficient Reasoning**. Prior to this, I earned my B.S. in **Applied Statistics** from Konkuk University.
 
 <div class="social" style="font-size: 1.1rem; margin-top: 10px; color: #444;">
   <div class="contact-icons">
